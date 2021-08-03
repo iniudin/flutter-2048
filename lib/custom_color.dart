@@ -1,4 +1,4 @@
-class Color {
+class CustomColor {
   static int gridBackground = 0xFFa2917d;
   static int gridColorTwoFour = 0xFFeee4da;
   static int fontColorTwoFour = 0xFF766c62;
